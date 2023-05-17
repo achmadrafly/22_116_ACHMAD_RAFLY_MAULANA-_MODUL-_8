@@ -1,0 +1,39 @@
+*{margin: 0; padding: 0;}
+
+.style-navbar1{
+    background-color: rgb(13, 162, 236);
+}
+.style-logo{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.style-logo span{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+.tulisan{
+    text-align: center;
+    font-weight: bold;
+}
+.btn{
+    position: absolute;
+    bottom: 15px;
+    width: 98%;
+    right: 10px;
+    font-weight: bold;
+    left: 5px;
+    text-align: center;
+}
+.btn-light{
+    color: white;
+    background-color: red;
+}
+.btn-light:hover{
+    color: red;
+    border-color: red;
+}
+.card{
+    text-align: center;
+}
